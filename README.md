@@ -1,6 +1,6 @@
 # IdentifyMe
 
-IdentifyMe is a Simple but very useful app when you need to get identified from a Crowd.
+IdentifyMe is a Simple but very useful app that helps when you need to get identified from a Crowd.
 
 You can just type in your name in the App and raise your hand holding your phone Horizontally.
 
